@@ -14,9 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Husam-zaman](https://github.com/Husam-zaman)
 
 - 📫 You can reach me via **trexhusam@gmail.com**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 

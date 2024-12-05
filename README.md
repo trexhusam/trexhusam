@@ -9,9 +9,9 @@
 
 <div align="center">
  
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **Universe Rp**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Husam-zaman](https://github.com/Husam-zaman)
+- 👨‍💻 All of my projects are available at [https://github.com/Husam-zaman](https://github.com/trexhusam)
 
 - 📫 You can reach me via **trexhusam@gmail.com**
  </div>

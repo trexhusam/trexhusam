@@ -9,7 +9,7 @@
 
 <div align="center">
  
-- 🌱 I’m currently working on **Universe Rp**
+- 🌱 I’m currently working on **Universe RP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trexhusam](https://github.com/trexhusam)
 
